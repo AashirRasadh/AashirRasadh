@@ -1,7 +1,7 @@
 ## Hi there, I'm Aashir Rasadh 👋
 
 I am a 2nd-year Electronic and Telecommunication Engineering student at the University of Moratuwa, Sri Lanka, with a keen interest in developing innovative solutions at the intersection of electronics and communication technologies. My academic journey is driven by a passion for learning, and I'm constantly exploring new challenges to enhance my technical skills and contribute to impactful projects.
-<img align="center" width="370" height="290" src="[https://www.canva.com/design/DAGNsYTO1w8/Ayid5wQldpgKCgSqleJzyg/edit?utm_content=DAGNsYTO1w8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://github.com/AashirRasadh/AashirRasadh/blob/main/Aashir%20rasadh.jpg?raw=true)">
+<img align="center" width="370" height="290" src="Aashir rasadh.jpg">
 <!--
 **AashirRasadh/AashirRasadh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
