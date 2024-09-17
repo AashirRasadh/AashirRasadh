@@ -1,4 +1,11 @@
-## Hi there, I'm Aashir Rasadh 👋
+Hi there![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I'm Aashir Rasadh
+=====================================================================================================================================
+
+<a href="https://www.github.com/AashirRasadh" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a>
+![Profile Views](https://komarev.com/ghpvc/?username=AashirRasadh&style=flat-square&color=blue)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square&link=https://www.linkedin.com/in/aashirrasadh/)](https://www.linkedin.com/in/aashirrasadh/)
+
 
 <img align="center" width="1000" height="290" src="Aashir rasadh.jpg">
 I am a 2nd-year Electronic and Telecommunication Engineering student at the University of Moratuwa, Sri Lanka, with a keen interest in developing innovative solutions at the intersection of electronics and communication technologies. My academic journey is driven by a passion for learning, and I'm constantly exploring new challenges to enhance my technical skills and contribute to impactful projects.
