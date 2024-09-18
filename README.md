@@ -10,8 +10,10 @@ Hi there![](https://user-images.githubusercontent.com/18350557/176309783-0785949
 <a href="https://www.linkedin.com/in/aashirrasadh" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square&link=https://www.linkedin.com/in/aashirrasadh/)](https://www.linkedin.com/in/aashirrasadh/)
 
+<div align="center">
+  <img src="abc.gif" width="600" height="300"/>
+</div>
 
-<img align="center" width="1000" height="290" src="Aashir rasadh.jpg">
 I am a 2nd-year Electronic and Telecommunication Engineering student at the University of Moratuwa, Sri Lanka, with a keen interest in developing innovative solutions at the intersection of electronics and communication technologies. My academic journey is driven by a passion for learning, and I'm constantly exploring new challenges to enhance my technical skills and contribute to impactful projects.
 
 ### 👨🏻‍💻 About Me
