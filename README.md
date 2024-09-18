@@ -45,6 +45,8 @@ I am a 2nd-year Electronic and Telecommunication Engineering student at the Univ
 
 [![AashirRasadh's GitHub stats](https://github-readme-stats.vercel.app/api?username=AashirRasadh&show_icons=true&theme=dracula)](https://github.com/AashirRasadh)
 
+<a href="http://www.github.com/AashirRasadh"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AashirRasadh&stroke=ffffff&background=22272e&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
 ### Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AashirRasadh&layout=compact&langs_count=10&custom_title=Languages&theme=dracula)](https://github.com/AashirRasadh)
 
