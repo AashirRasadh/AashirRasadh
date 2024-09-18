@@ -26,7 +26,7 @@ I am a 2nd-year Electronic and Telecommunication Engineering student at the Univ
 * ⚡  I might take breaks with sleep(8), but my code runs 24/7!
 
 ---
-### Skills
+### 🔧 Skills
 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
