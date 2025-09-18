@@ -14,7 +14,7 @@ Hi there![](https://user-images.githubusercontent.com/18350557/176309783-0785949
   <img src="abc.gif" width="600" height="300"/>
 </div>
 
-I am a 2nd-year Electronic and Telecommunication Engineering student at the University of Moratuwa, Sri Lanka, with a keen interest in developing innovative solutions at the intersection of electronics and communication technologies. My academic journey is driven by a passion for learning, and I'm constantly exploring new challenges to enhance my technical skills and contribute to impactful projects.
+I am a 3rd-year Electronic and Telecommunication Engineering student at the University of Moratuwa, Sri Lanka, with a keen interest in developing innovative solutions at the intersection of electronics and communication technologies. My academic journey is driven by a passion for learning, and I'm constantly exploring new challenges to enhance my technical skills and contribute to impactful projects.
 
 ### 👨🏻‍💻 About Me
 * 🎓 I'm currently studying at [Electronic & Telecommunication Engineering](https://ent.uom.lk/) at [University of Moratuwa, Sri Lanka](https://www.mrt.ac.lk/)
